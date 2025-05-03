@@ -17,5 +17,5 @@ Le CV est optimisé pour tous types d’écrans (ordinateur, tablette, mobile) g
 ## 🌐 Voir le projet en ligne
 
 Accédez au CV en ligne via Vercel :  
-👉 [(https://louayportfolio.vercel.app/)]
+👉 https://louayportfolio.vercel.app/
 
